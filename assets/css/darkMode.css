@@ -1,0 +1,27 @@
+.darkmode--activated #header {
+  background-color: #000033;
+}
+
+.darkmode--activated .navbar a {
+  color: white;
+}
+
+.darkmode--activated .navbar a:hover {
+  color: #11edab;
+}
+
+.darkmode--activated #change {
+  content: url("https://venturex.netlify.app/assets/img/logo/footLogo.png");
+}
+
+.darkmode--activated .navbar .dropdown ul {
+  background: #000033;
+}
+
+.darkmode--activated .about .row-content p {
+  color: white;
+}
+
+.darkmode--activated .about .content ul li {
+  color: #c6dbef;
+}
